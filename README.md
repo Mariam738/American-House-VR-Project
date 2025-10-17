@@ -1,8 +1,8 @@
 # American-House-VR Demo Videos Using XR Simulator 📹
 
 ## Scoring System
-"https://github.com/user-attachments/assets/e80e70a0-d2a0-414c-82e2-d3af791824db"
-<img width="450" height="350" alt="Win" src="https://github.com/user-attachments/assets/5f7480f6-9d1a-45eb-ab49-730f310d0be6" />
+https://github.com/user-attachments/assets/e80e70a0-d2a0-414c-82e2-d3af791824db
+<img alt="Win" src="https://github.com/user-attachments/assets/5f7480f6-9d1a-45eb-ab49-730f310d0be6" />
 
 ## Teleport
 <img width="450" height="350" alt="Win" src="https://github.com/user-attachments/assets/26fdd75c-ce54-4c61-8e8d-7de517c49a55" />
