@@ -2,7 +2,11 @@
 
 ## Scoring System
 
-https://github.com/user-attachments/assets/e80e70a0-d2a0-414c-82e2-d3af791824db
+<video width="400" controls>
+  <source src="https://github.com/user-attachments/assets/e80e70a0-d2a0-414c-82e2-d3af791824db" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 https://github.com/user-attachments/assets/5f7480f6-9d1a-45eb-ab49-730f310d0be6
 
