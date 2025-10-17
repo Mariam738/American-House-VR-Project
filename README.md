@@ -3,6 +3,7 @@
 ## Scoring System 🏆
 
 https://github.com/user-attachments/assets/e80e70a0-d2a0-414c-82e2-d3af791824db
+
 https://github.com/user-attachments/assets/5f7480f6-9d1a-45eb-ab49-730f310d0be6
 
 ## Teleport 🚀📍
@@ -11,6 +12,7 @@ https://github.com/user-attachments/assets/26fdd75c-ce54-4c61-8e8d-7de517c49a55
 
 ## Ray and Direct Grab and Throw 🖐=͟͟͞͞🏀
 https://github.com/user-attachments/assets/cc99bc0c-7192-4300-97ea-c0c1a416546e
+
 https://github.com/user-attachments/assets/b5c2d7ca-b5cc-4854-84ad-c4043a2e5e52
 
 
